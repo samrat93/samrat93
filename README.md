@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samrat93
-- 👀 I’m interested in programming,travelling and cooking
-- 🌱 I’m currently learning Django framework and reactjs
-- 💞️ I’m looking to collaborate on django
+- 👀 I’m interested in Software Development, Travelling and Cooking
+- 🌱 I’m currently Working on Lanet Teams Software Pvt.Ltd as a Full Stack Developer
+- 💞️ I’m looking to collaborate on django,Nodejs and ReactJs
 - 📫 How to reach me ... email me virtualsamrat@gmail.com or you can visit http://samratbikramshah.com.np/
 
 <!---
