@@ -6,7 +6,8 @@
 {
   "name" : "Samrat Bikram Shah",
   "pronouns" : "he/him",
-  "school" : "Gujarat Technological University",
+  "college" : "Sarvajanik College of Engineering & Technology",
+  "University":"Gujarat Technological University",
   "program" : "Master's Of Computer Application",
   "year" : "2022",
   "job-searching" : true,
