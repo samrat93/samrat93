@@ -31,5 +31,5 @@
 
 
 ### GitHub Stats 
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat93)
+![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat93&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrat93&layout=compact)
