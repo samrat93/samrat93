@@ -27,7 +27,7 @@
 
 ### How to Reach Me
 - 💬 Email: virtualsamrat@gmail.com
-- ⚡ Website: http://samratbikramshah.com.np/
+- ⚡ Website: https://iamsamrat.netlify.app/
 - 🕴 LinkedIn: https://www.linkedin.com/in/samrat1993/
 
 
