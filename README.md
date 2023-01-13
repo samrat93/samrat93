@@ -36,3 +36,4 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
+![Samrat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dsamrat93&count_private=true&show_icons=true&theme=chartreuse-dark)
