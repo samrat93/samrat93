@@ -11,7 +11,8 @@
   "program" : "Master's Of Computer Application",
   "year" : "2022",
   "job-searching" : true,
-  "goal" : "to create software that helps the world"
+  "goal" : "to create software that helps the world",
+  "country: "Nepal",
 }
 ```
 
