@@ -31,7 +31,7 @@
 - 🕴 LinkedIn: https://www.linkedin.com/in/samrat1993/
 
 
-### GitHub Stats 
+---
 
 <h2 align="center"> Github Stats 📈 </h2>
   
@@ -45,3 +45,7 @@
 </div
   
 <br/>
+---
+
+---
+
