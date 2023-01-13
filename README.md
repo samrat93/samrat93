@@ -30,6 +30,7 @@
 
 - 💬 Email: virtualsamrat@gmail.com
 - ⚡ Website: https://iamsamrat.netlify.app/
+
 [<img align="left" alt="bilgehangecici | LinkedIn" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
