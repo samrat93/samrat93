@@ -31,13 +31,16 @@
 - 🕴 LinkedIn: https://www.linkedin.com/in/samrat1993/
 
 
+<br/>
+
 ---
 
-<h2 align="center"> Github Stats 📈 </h2>
+
+  <h2 align="center"> Github estadisticas 📈 </h2>
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samrat93&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samrat93=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samrat93&theme=react&line_height=40&hide=css"/>
@@ -45,7 +48,12 @@
 </div
   
 <br/>
+
 ---
 
 ---
+
+
+[instagram]: https://www.instagram.com/samratbs/
+[linkedin]: https://www.linkedin.com/in/samrat1993/
 
