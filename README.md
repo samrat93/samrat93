@@ -6,13 +6,12 @@
 {
   "name" : "Samrat Bikram Shah",
   "pronouns" : "he/him",
-  "college" : "Sarvajanik College of Engineering & Technology",
-  "University":"Gujarat Technological University",
-  "program" : "Master's Of Computer Application",
-  "year" : "2022",
+  "University":"University of the West of Scotland",
+  "program" : "Msc-IT with Data Analytics",
+  "year" : "2025",
   "job-searching" : true,
   "goal" : "to create software that helps the world",
-  "country: "Nepal",
+  "country: "United Kingdom",
 }
 ```
 
